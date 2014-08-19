@@ -7,6 +7,15 @@
 _obj
 _test
 
+#revel auto generate file
+app/routes
+app/tmp
+
+#ide
+gorevelstudy.iml
+gorevelstudy.ipr
+gorevelstudy.iws
+
 # Architecture specific extensions/prefixes
 *.[568vq]
 [568vq].out
